@@ -12,3 +12,5 @@ Este proyecto es practica para aprender en Git y GitHub
 1. clonar el repositorio 
 2. Editar el archivo READMI.md.
 3. subir los cambios a GitHub.
+
+GRACIAS POR SU ATENCION.
